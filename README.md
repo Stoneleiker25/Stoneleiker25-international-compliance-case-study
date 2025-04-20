@@ -33,4 +33,4 @@ This case study simulates a compliance scenario using customer transaction data.
 ## Date
 March 2025
 
-**Note:** The SQL view name retains `Wise` for continuity in development, but all company references are anonymized as “CleanPay” or “Global.”
+**Note:** The SQL view name retains `Wise' for continuity in development, but all company references are anonymized as “CleanPay” or “Global.”
