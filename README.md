@@ -1,7 +1,7 @@
 # Stoneleiker25-international-compliance-case-study
-# GlobalPay Compliance Case Study
+# Global CleanPay Case – Compliance Case Study
 
-This project is a compliance case study simulating regulatory reporting using customer transaction data. I used SQL, Power BI, CSV, and PowerPoint to deliver insights and audit-ready outputs.
+This case study simulates a compliance scenario using customer transaction data. I used SQL, Power BI, Excel, and PowerPoint to clean, analyze, and present insights for regulatory reporting.
 
 ## Tools Used
 - SQL Server
@@ -9,26 +9,29 @@ This project is a compliance case study simulating regulatory reporting using cu
 - Excel / CSV
 - PowerPoint
 
-## Project Goals
-- Respond to two regulatory requests (cross-currency and same-currency GBP volumes)
-- Clean and validate raw customer data
-- Build visual dashboard for analysis
-- Deliver business insights and final presentation
+## Objectives
+- Answer two regulatory requests:
+  - Cross-currency volume in GBP under the UK Entity
+  - Cross- and same-currency volume in GBP under the US Entity
+- Clean and prepare customer transaction data
+- Build a dashboard for analysis
+- Present findings with recommendations
 
-## Key Steps
-1. Cleaned CSV data in Excel
-2. Created SQL view `vw_CleanedGlobalPayCase` for analysis
-3. Built Power BI dashboard with slicers and charts
-4. Delivered presentation and report with recommendations
+## Process
+1. Cleaned the raw data in Excel and saved it as CSV
+2. Imported into SQL Server and created view: `vw_CleanedWiseStudyCase'
+3. Built Power BI dashboard with filters and visuals
+4. Delivered summary in a PowerPoint deck and PDF report
 
 ## Files Included
-- SQL script
-- Power BI .pbix dashboard
-- Cleaned CSV file
-- PowerPoint deck
-- PDF summary report
+- `GlobalPay Study Case.sql' – SQL cleaning and analysis
+- `Global Study Case.csv' – Cleaned CSV file
+- `Wise Study Case.pbix' – Power BI dashboard
+- `Wise Compliance Case Study.pptx' – Executive slide deck
+- `PayNova Compliance Study.pdf' – Full written summary
+- `Global Case Study - SQL.pdf' – SQL outputs in PDF format
 
 ## Date
 March 2025
 
-**Note:** This project is for portfolio/demo purposes only. “GlobalPay” is a fictional company name.
+**Note:** The SQL view name retains `Wise` for continuity in development, but all company references are anonymized as “CleanPay” or “Global.”
