@@ -1,4 +1,3 @@
-# Stoneleiker25-international-compliance-case-study
 # Global CleanPay Case – Compliance Case Study
 
 This case study simulates a compliance scenario using customer transaction data. I used SQL, Power BI, Excel, and PowerPoint to clean, analyze, and present insights for regulatory reporting.
